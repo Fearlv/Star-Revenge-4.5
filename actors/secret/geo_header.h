@@ -1,0 +1,17 @@
+extern const GeoLayout secret[];
+extern Lights1 secret_Mat1_lights;
+extern Lights1 secret_Mat0_lights;
+extern u8 secret__1_ci4[];
+extern u8 secret__1_ci4_pal_rgba16[];
+extern u8 secret__0_ci4[];
+extern u8 secret__0_ci4_pal_rgba16[];
+extern Vtx secret_node_mesh_layer_1_vtx_0[60];
+extern Gfx secret_node_mesh_layer_1_tri_0[];
+extern Vtx secret_node_mesh_layer_1_vtx_1[240];
+extern Gfx secret_node_mesh_layer_1_tri_1[];
+extern Gfx mat_secret_Mat1[];
+extern Gfx mat_revert_secret_Mat1[];
+extern Gfx mat_secret_Mat0[];
+extern Gfx mat_revert_secret_Mat0[];
+extern Gfx secret_node_mesh_layer_1[];
+extern Gfx secret_material_revert_render_settings[];
