@@ -14,7 +14,7 @@ rom_hack_cam_set_collisions(0)
 camera_romhack_allow_centering(0)
 camera_set_use_course_specific_settings(false)
 
-----No Fall Damage--- (Code by Woissil)
+---No Fall Damage--- (Code by Woissil)
 
 function no_fall_damage(m)
  m.peakHeight = m.pos.y
